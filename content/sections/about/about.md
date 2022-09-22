@@ -1,14 +1,8 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: '../../images/ic_launcher.png'
+imageAlt: '4usic Logo'
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Wir sind Till und Christian und gemeinsam haben wir 4usic gestartet. Wir lernen selbst begeistert Musikinstrumente und dass zum Erfolg beim Spielen wichtige Zutaten zusammen kommen müssen: Ein guter Musiklehrer oder -lehrerin, Motivation zum Spielen und der eine oder andere Kniff. Wir glauben, dass wir mit einer App helfen können die Verbindung zwischen MusiklehrerInnen und SchülerInnen zu verbessern und so das Spielen euch beim täglichen Üben zu unterstützen.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Aktuell reden wir mit vielen MusiklehrerInnen und SchülerInnen über die App und wie wir sie verbessern können. Wir freuen uns über eure Unterstützung und eure Ideen. Schreibt uns einfach eine E-Mail an [info@4usic.de](mailto:info@4usic.de). Oder schaut einfach später nochmal vorbei, denn diese Webseite ist gerade erst im Aufbau und später gibt es hier mehr zu erfahren.
