@@ -1,5 +1,5 @@
 ---
-imageSrc: '../../images/ic_launcher.png'
+imageSrc: '../../images/logo.png'
 imageAlt: '4usic Logo'
 ---
 
