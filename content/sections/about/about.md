@@ -1,5 +1,5 @@
 ---
-imageSrc: '../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg'
+imageSrc: '../../images/logo.png'
 imageAlt: '4usic Logo'
 ---
 
